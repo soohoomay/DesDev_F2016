@@ -1,3 +1,3 @@
 # Design Development Class - Fall 2016 SLAS
 
-## This is the repository for all deliverables for fall term 2016 of SLAS's Design Development class. Each student has a separate branch. This is where students store, manage, and submit classwork.
+## This is the repository for all deliverables for fall term 2016 of SLAS's Design Development class (Tues 2-5pm). Each student has a separate branch. This is where students store, manage, and submit classwork.
